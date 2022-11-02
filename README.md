@@ -1,7 +1,7 @@
 # blockchain-from-scratch
 
 ## About
-A prototypical project where simple blockchain is made with Golang
+A prototypical project where simple blockchain is made with Golang.
 
 
 ## Reference
